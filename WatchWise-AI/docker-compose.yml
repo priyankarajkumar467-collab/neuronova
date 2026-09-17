@@ -1,0 +1,25 @@
+services:
+
+  trainer:
+    build: .
+    command: python trainer/train.py
+    volumes:
+      - .:/app
+
+  api:
+    build: .
+    command: uvicorn api.app:app --host 0.0.0.0 --port 8000
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
+    depends_on:
+      - trainer
+
+  evaluator:
+    build: .
+    command: python evaluator/evaluate.py
+    volumes:
+      - .:/app
+    depends_on:
+      - trainer

@@ -1,0 +1,1201 @@
+user_id,watch_time_hours,avg_session_mins,session_count,top_genres,weekend_ratio,completion_rate
+1,25.88,60.13,27,"Comedy, Romance",0.23,0.77
+2,10.64,28.28,15,"Thriller, Sci-Fi",0.8,0.51
+3,14.41,45.62,8,"Animation, Drama",0.88,0.56
+4,18.11,53.72,20,"Sci-Fi, Animation, Drama, Romance",0.28,0.61
+5,31.14,46.89,27,"Comedy, Romance, Drama, Animation",0.29,0.78
+6,26.55,46.14,11,"Comedy, Animation, Documentary, Action",0.45,0.73
+7,15.56,47.25,19,"Romance, Sci-Fi",0.7,0.62
+8,46.32,54.41,43,"Romance, Sci-Fi",0.26,0.86
+9,11.22,26.86,15,"Sci-Fi, Thriller",0.16,0.64
+10,16.32,52.39,28,"Documentary, Thriller, Sci-Fi, Animation",0.51,0.59
+11,6.18,14.93,11,"Animation, Romance",0.28,0.61
+12,17.24,59.91,12,"Action, Animation",0.8,0.53
+13,30.35,53.8,41,"Animation, Romance",0.31,0.76
+14,20.58,58.99,8,"Romance, Animation",0.85,0.54
+15,17.23,38.04,24,"Romance, Documentary, Comedy, Animation",0.25,0.72
+16,55.47,61.41,40,"Sci-Fi, Animation",0.33,0.8
+17,9.47,25.57,11,"Documentary, Action",0.38,0.56
+18,57.52,93.33,45,"Comedy, Action",0.28,0.76
+19,26.32,59.23,25,"Documentary, Romance",0.88,0.54
+20,6.18,27.45,9,"Thriller, Sci-Fi",0.39,0.68
+21,22.98,45.15,21,"Comedy, Documentary, Animation, Action",0.38,0.66
+22,15.42,41.62,28,"Action, Comedy, Documentary, Sci-Fi",0.32,0.52
+23,16.42,32.14,25,"Documentary, Comedy, Thriller, Sci-Fi",0.31,0.54
+24,4.13,23.18,8,"Action, Sci-Fi",0.26,0.51
+25,27.12,85.05,45,"Thriller, Romance",0.42,0.81
+26,12.8,31.42,22,"Documentary, Animation",0.72,0.82
+27,26.77,99.96,20,"Thriller, Comedy",0.44,0.96
+28,19.71,32.48,20,"Action, Thriller",0.92,0.56
+29,33.53,48.55,19,"Documentary, Comedy, Animation, Drama",0.38,0.79
+30,14.62,21.58,11,"Action, Romance",0.17,0.46
+31,20.06,54.85,13,"Drama, Action",0.67,0.68
+32,48.63,57.94,23,"Action, Romance",0.44,0.88
+33,39.67,77.1,36,"Sci-Fi, Comedy",0.28,0.81
+34,22.92,45.15,19,"Comedy, Action, Thriller, Romance",0.39,0.78
+35,27.56,56.72,28,"Comedy, Documentary",0.23,0.83
+36,20.7,38.15,27,"Action, Sci-Fi, Romance, Drama",0.46,0.68
+37,57.86,52.39,23,"Drama, Documentary",0.42,0.92
+38,27.1,46.53,16,"Documentary, Drama, Action, Sci-Fi",0.46,0.76
+39,26.59,26.54,18,"Romance, Comedy",0.88,0.72
+40,21.03,39.97,8,"Drama, Romance",0.68,0.83
+41,54.21,77.04,24,"Sci-Fi, Animation",0.31,0.76
+42,56.46,56.55,27,"Animation, Romance",0.37,0.83
+43,14.11,14.73,5,"Animation, Action",0.39,0.63
+44,11.84,16.64,9,"Thriller, Drama",0.35,0.65
+45,12.45,12.16,3,"Documentary, Drama",0.36,0.43
+46,31.41,51.14,17,"Sci-Fi, Drama, Action, Animation",0.26,0.56
+47,27.83,36.99,27,"Romance, Comedy, Documentary, Drama",0.35,0.51
+48,28.79,68.9,43,"Comedy, Thriller",0.4,0.85
+49,6.06,24.18,3,"Thriller, Drama",0.28,0.63
+50,11.4,48.25,18,"Comedy, Sci-Fi",0.84,0.73
+51,25.14,45.01,20,"Drama, Comedy, Thriller, Sci-Fi",0.37,0.59
+52,10.39,16.02,11,"Thriller, Documentary",0.36,0.46
+53,24.3,38.26,16,"Drama, Sci-Fi, Action, Documentary",0.4,0.74
+54,16.87,53.56,17,"Thriller, Comedy, Action, Sci-Fi",0.45,0.57
+55,14.81,22.23,15,"Thriller, Sci-Fi",0.17,0.5
+56,19.89,33.54,8,"Comedy, Animation",0.92,0.8
+57,14.38,53.14,24,"Comedy, Thriller",0.79,0.7
+58,12.62,23.35,11,"Documentary, Romance",0.3,0.68
+59,26.61,44.18,13,"Romance, Animation",0.87,0.67
+60,13.08,15.55,15,"Romance, Thriller",0.28,0.57
+61,49.97,57.9,30,"Drama, Comedy",0.28,0.87
+62,7.6,13.06,6,"Documentary, Thriller",0.17,0.49
+63,32.24,68.11,44,"Animation, Thriller",0.35,0.91
+64,58.0,61.42,32,"Animation, Romance",0.41,0.97
+65,8.86,15.46,10,"Animation, Sci-Fi",0.16,0.47
+66,13.09,28.39,12,"Action, Documentary",0.28,0.67
+67,12.71,41.16,9,"Documentary, Drama",0.73,0.61
+68,30.22,36.37,23,"Action, Sci-Fi, Romance, Documentary",0.33,0.52
+69,19.48,27.06,30,"Thriller, Comedy, Action, Romance",0.26,0.51
+70,5.86,19.47,4,"Romance, Animation",0.29,0.43
+71,18.36,43.22,13,"Romance, Action, Documentary, Animation",0.48,0.55
+72,26.52,52.24,22,"Comedy, Romance, Sci-Fi, Documentary",0.37,0.71
+73,49.4,61.59,41,"Action, Drama",0.35,0.78
+74,23.23,27.41,18,"Documentary, Action",0.65,0.65
+75,29.22,47.25,22,"Romance, Documentary",0.86,0.65
+76,19.3,53.9,16,"Comedy, Drama",0.75,0.59
+77,14.88,41.26,20,"Sci-Fi, Comedy",0.75,0.67
+78,14.24,52.92,18,"Romance, Documentary",0.73,0.71
+79,43.08,55.51,27,"Thriller, Sci-Fi",0.38,0.86
+80,22.92,42.18,8,"Thriller, Drama",0.68,0.58
+81,24.47,40.93,23,"Sci-Fi, Documentary, Thriller, Drama",0.55,0.67
+82,20.03,28.62,16,"Drama, Comedy, Animation, Thriller",0.34,0.72
+83,29.49,54.3,26,"Thriller, Drama, Comedy, Animation",0.43,0.79
+84,6.63,24.16,5,"Romance, Sci-Fi",0.22,0.69
+85,10.65,25.06,4,"Documentary, Thriller",0.37,0.55
+86,16.81,58.79,16,"Comedy, Thriller",0.93,0.67
+87,11.48,47.03,9,"Romance, Action",0.7,0.78
+88,4.42,25.29,12,"Animation, Thriller",0.3,0.57
+89,15.95,45.6,21,"Comedy, Animation",0.74,0.72
+90,10.51,15.29,4,"Comedy, Documentary",0.19,0.41
+91,39.3,82.92,35,"Romance, Sci-Fi",0.27,0.8
+92,11.42,33.17,16,"Thriller, Documentary",0.89,0.72
+93,44.06,80.62,28,"Drama, Animation",0.41,0.77
+94,26.9,49.73,19,"Romance, Sci-Fi, Thriller, Drama",0.38,0.64
+95,18.76,45.93,21,"Action, Documentary",0.87,0.71
+96,14.54,26.72,12,"Romance, Documentary",0.3,0.36
+97,51.71,54.64,36,"Drama, Romance",0.36,0.96
+98,22.7,42.21,10,"Sci-Fi, Documentary",0.79,0.64
+99,55.02,63.14,42,"Animation, Documentary",0.32,0.9
+100,40.92,62.3,30,"Action, Sci-Fi",0.23,0.93
+101,18.26,31.57,19,"Documentary, Animation",0.84,0.67
+102,32.12,75.21,29,"Comedy, Action",0.31,0.91
+103,11.52,16.22,3,"Comedy, Thriller",0.29,0.38
+104,47.67,53.47,42,"Animation, Documentary",0.27,0.91
+105,29.6,33.53,25,"Drama, Animation",0.69,0.57
+106,34.67,88.45,33,"Romance, Animation",0.28,0.93
+107,34.9,61.42,38,"Drama, Thriller",0.34,0.9
+108,16.9,44.32,25,"Thriller, Sci-Fi",0.76,0.83
+109,9.86,14.67,15,"Documentary, Sci-Fi",0.25,0.46
+110,17.72,48.23,12,"Sci-Fi, Animation",0.8,0.51
+111,55.6,69.22,36,"Drama, Thriller",0.43,0.75
+112,3.9,25.63,7,"Comedy, Animation",0.23,0.59
+113,32.05,50.78,22,"Documentary, Animation, Romance, Action",0.54,0.69
+114,33.22,82.64,29,"Animation, Action",0.45,0.92
+115,40.53,83.17,20,"Romance, Drama",0.21,0.93
+116,23.61,32.33,23,"Drama, Comedy, Action, Romance",0.42,0.74
+117,22.39,33.43,12,"Documentary, Drama",0.72,0.72
+118,56.46,70.59,29,"Documentary, Drama",0.37,0.79
+119,27.78,37.73,18,"Animation, Documentary, Thriller, Action",0.39,0.59
+120,7.58,17.18,7,"Animation, Drama",0.4,0.45
+121,44.81,82.72,43,"Documentary, Animation",0.44,0.96
+122,30.51,31.9,21,"Romance, Sci-Fi, Animation, Comedy",0.32,0.56
+123,56.62,80.55,29,"Sci-Fi, Documentary",0.4,0.76
+124,4.08,15.9,14,"Sci-Fi, Romance",0.25,0.42
+125,31.61,32.71,25,"Sci-Fi, Animation, Action, Thriller",0.54,0.59
+126,29.93,98.16,41,"Sci-Fi, Action",0.38,0.98
+127,10.28,43.78,22,"Romance, Documentary",0.76,0.76
+128,26.45,57.91,11,"Sci-Fi, Romance",0.85,0.67
+129,10.77,22.71,10,"Animation, Action",0.38,0.46
+130,3.54,10.74,10,"Drama, Thriller",0.18,0.43
+131,17.42,58.23,25,"Drama, Thriller",0.78,0.76
+132,54.18,78.86,28,"Documentary, Thriller",0.21,0.84
+133,13.27,11.99,13,"Sci-Fi, Action",0.24,0.67
+134,15.52,58.89,22,"Action, Documentary",0.68,0.57
+135,19.87,28.78,28,"Thriller, Romance, Comedy, Sci-Fi",0.31,0.75
+136,30.49,48.66,29,"Drama, Comedy, Romance, Documentary",0.25,0.76
+137,4.32,27.33,5,"Thriller, Romance",0.15,0.63
+138,15.32,32.96,14,"Comedy, Thriller, Animation, Drama",0.47,0.66
+139,40.82,57.19,39,"Romance, Thriller",0.21,0.93
+140,27.13,71.34,32,"Documentary, Action",0.31,0.77
+141,36.27,53.16,24,"Sci-Fi, Thriller",0.27,0.9
+142,24.07,43.16,13,"Thriller, Documentary, Animation, Comedy",0.49,0.53
+143,16.78,40.87,21,"Sci-Fi, Documentary",0.87,0.61
+144,22.49,29.58,25,"Comedy, Thriller, Action, Drama",0.27,0.75
+145,9.68,21.73,11,"Animation, Drama",0.29,0.58
+146,27.36,50.24,17,"Thriller, Comedy",0.83,0.62
+147,14.48,28.79,25,"Thriller, Animation",0.76,0.77
+148,26.9,59.11,25,"Romance, Action",0.66,0.83
+149,6.28,25.25,8,"Drama, Romance",0.24,0.41
+150,11.39,50.93,8,"Animation, Thriller",0.68,0.69
+151,16.82,37.95,18,"Comedy, Action",0.88,0.7
+152,4.89,22.36,13,"Animation, Thriller",0.17,0.51
+153,18.28,32.54,24,"Romance, Sci-Fi",0.68,0.65
+154,20.54,35.79,15,"Action, Comedy",0.77,0.71
+155,33.91,48.02,18,"Documentary, Sci-Fi, Thriller, Comedy",0.34,0.54
+156,7.56,24.07,11,"Sci-Fi, Action",0.29,0.58
+157,27.24,26.48,8,"Sci-Fi, Romance",0.79,0.53
+158,21.47,49.83,21,"Sci-Fi, Comedy",0.74,0.64
+159,26.64,57.19,10,"Animation, Romance",0.78,0.54
+160,20.48,38.85,17,"Drama, Action",0.87,0.58
+161,43.57,55.66,44,"Drama, Comedy",0.29,0.92
+162,30.13,55.85,39,"Comedy, Documentary",0.24,0.92
+163,19.28,44.73,22,"Sci-Fi, Animation",0.85,0.81
+164,18.02,27.05,24,"Action, Drama, Romance, Documentary",0.44,0.74
+165,24.23,26.13,21,"Comedy, Romance, Animation, Sci-Fi",0.5,0.52
+166,19.25,44.4,9,"Thriller, Drama",0.78,0.78
+167,20.03,58.52,22,"Sci-Fi, Documentary",0.68,0.81
+168,42.66,54.49,27,"Drama, Documentary",0.38,0.98
+169,33.36,36.62,20,"Sci-Fi, Action, Drama, Animation",0.45,0.52
+170,15.68,50.33,12,"Drama, Documentary",0.75,0.7
+171,34.35,45.95,22,"Comedy, Drama, Romance, Thriller",0.29,0.71
+172,31.26,45.1,26,"Sci-Fi, Action, Drama, Documentary",0.28,0.7
+173,14.41,16.83,15,"Drama, Comedy",0.27,0.43
+174,35.35,88.35,36,"Action, Sci-Fi",0.39,0.94
+175,32.53,43.54,29,"Drama, Sci-Fi, Thriller, Action",0.36,0.55
+176,17.29,50.19,22,"Documentary, Comedy",0.83,0.76
+177,6.71,26.17,10,"Documentary, Thriller",0.38,0.42
+178,30.56,40.09,23,"Drama, Animation, Documentary, Action",0.54,0.75
+179,27.48,44.41,11,"Comedy, Drama",0.86,0.68
+180,51.71,60.0,36,"Thriller, Animation",0.24,0.85
+181,27.69,57.57,21,"Thriller, Documentary",0.67,0.68
+182,38.12,46.55,23,"Drama, Comedy",0.41,0.9
+183,35.04,90.64,42,"Documentary, Thriller",0.41,0.92
+184,56.71,46.05,26,"Animation, Action",0.41,0.88
+185,19.75,28.66,17,"Documentary, Action, Animation, Thriller",0.38,0.74
+186,47.12,76.63,42,"Sci-Fi, Comedy",0.24,0.85
+187,13.75,48.39,24,"Action, Thriller",0.94,0.52
+188,10.87,38.54,19,"Comedy, Drama",0.73,0.51
+189,11.8,22.57,15,"Drama, Action",0.3,0.61
+190,25.92,49.41,15,"Documentary, Sci-Fi, Comedy, Animation",0.5,0.71
+191,50.06,96.9,21,"Thriller, Action",0.27,0.76
+192,33.67,40.46,27,"Thriller, Drama, Animation, Action",0.39,0.51
+193,20.46,48.98,23,"Animation, Drama, Comedy, Thriller",0.52,0.72
+194,17.35,52.91,16,"Comedy, Thriller",0.89,0.75
+195,9.55,16.42,4,"Documentary, Romance",0.23,0.45
+196,13.33,40.54,22,"Sci-Fi, Romance",0.66,0.8
+197,15.49,59.3,9,"Sci-Fi, Romance",0.67,0.72
+198,14.43,12.86,12,"Drama, Action",0.32,0.5
+199,12.34,17.33,9,"Drama, Sci-Fi",0.39,0.36
+200,28.98,38.02,10,"Animation, Drama",0.82,0.69
+201,19.99,28.4,15,"Comedy, Drama, Animation, Thriller",0.4,0.62
+202,14.96,15.71,10,"Comedy, Thriller",0.2,0.4
+203,13.78,18.9,4,"Sci-Fi, Documentary",0.35,0.69
+204,29.19,41.5,19,"Drama, Animation, Documentary, Romance",0.52,0.76
+205,4.46,14.02,5,"Sci-Fi, Romance",0.21,0.52
+206,24.35,54.49,14,"Romance, Thriller, Sci-Fi, Animation",0.43,0.53
+207,25.38,53.82,10,"Comedy, Thriller",0.69,0.61
+208,23.6,37.06,25,"Drama, Thriller",0.84,0.56
+209,54.1,73.5,29,"Thriller, Drama",0.24,0.82
+210,31.92,32.52,30,"Romance, Documentary, Animation, Action",0.54,0.58
+211,10.1,21.61,5,"Sci-Fi, Animation",0.31,0.6
+212,53.88,46.56,21,"Romance, Sci-Fi",0.44,0.93
+213,12.2,18.33,13,"Romance, Sci-Fi",0.16,0.66
+214,24.66,49.14,22,"Action, Comedy, Thriller, Sci-Fi",0.34,0.52
+215,19.29,36.91,12,"Sci-Fi, Thriller",0.74,0.75
+216,12.13,20.3,4,"Romance, Thriller",0.23,0.51
+217,4.69,11.01,9,"Drama, Animation",0.37,0.5
+218,33.68,46.63,16,"Documentary, Thriller, Drama, Animation",0.48,0.65
+219,28.15,66.63,34,"Sci-Fi, Action",0.44,0.8
+220,34.85,77.86,40,"Action, Animation",0.37,0.82
+221,40.08,93.54,43,"Action, Thriller",0.29,0.84
+222,44.96,55.71,37,"Documentary, Animation",0.27,0.84
+223,31.51,43.7,29,"Animation, Drama, Documentary, Romance",0.29,0.79
+224,30.1,30.97,26,"Action, Comedy, Sci-Fi, Drama",0.37,0.51
+225,20.39,30.21,24,"Sci-Fi, Comedy",0.69,0.83
+226,29.81,50.88,17,"Documentary, Sci-Fi",0.83,0.68
+227,24.5,25.5,20,"Romance, Animation, Sci-Fi, Action",0.45,0.79
+228,15.31,47.95,15,"Drama, Romance",0.87,0.7
+229,12.96,48.83,9,"Thriller, Action",0.82,0.75
+230,16.27,30.3,14,"Documentary, Animation",0.77,0.77
+231,49.7,73.53,37,"Animation, Drama",0.28,0.9
+232,8.52,20.66,11,"Romance, Documentary",0.24,0.62
+233,13.85,33.63,25,"Romance, Animation",0.74,0.83
+234,29.1,45.71,25,"Romance, Drama, Action, Documentary",0.35,0.6
+235,27.92,38.81,19,"Romance, Action",0.94,0.78
+236,34.11,27.37,24,"Thriller, Comedy, Romance, Drama",0.45,0.72
+237,17.75,43.47,28,"Thriller, Sci-Fi, Comedy, Action",0.32,0.52
+238,39.47,84.45,23,"Drama, Thriller",0.37,0.78
+239,19.55,31.98,17,"Comedy, Sci-Fi",0.75,0.73
+240,9.42,24.46,3,"Drama, Action",0.38,0.41
+241,25.76,31.52,17,"Comedy, Drama",0.91,0.5
+242,24.09,44.24,26,"Documentary, Drama, Comedy, Action",0.4,0.78
+243,18.25,38.77,18,"Sci-Fi, Animation, Drama, Romance",0.47,0.5
+244,5.11,27.12,9,"Comedy, Thriller",0.36,0.53
+245,31.47,52.73,30,"Animation, Comedy",0.43,0.75
+246,25.08,58.39,17,"Romance, Sci-Fi",0.82,0.7
+247,28.86,26.86,13,"Romance, Sci-Fi, Action, Drama",0.39,0.55
+248,27.29,31.57,14,"Sci-Fi, Thriller, Documentary, Romance",0.39,0.64
+249,25.15,53.07,14,"Comedy, Romance",0.88,0.74
+250,20.56,37.66,11,"Thriller, Romance",0.67,0.69
+251,4.97,27.09,10,"Documentary, Action",0.18,0.42
+252,26.17,40.87,24,"Documentary, Sci-Fi",0.77,0.7
+253,29.47,36.88,10,"Action, Thriller, Drama, Documentary",0.47,0.67
+254,57.71,48.8,35,"Drama, Animation",0.21,0.84
+255,17.49,56.2,22,"Animation, Action",0.91,0.82
+256,10.84,16.96,5,"Drama, Sci-Fi",0.4,0.49
+257,13.02,25.12,7,"Animation, Romance",0.27,0.6
+258,26.47,33.66,19,"Comedy, Action",0.7,0.57
+259,22.3,57.77,8,"Action, Thriller",0.72,0.52
+260,33.57,47.43,34,"Action, Comedy",0.26,0.8
+261,19.68,52.49,28,"Sci-Fi, Comedy, Drama, Animation",0.35,0.68
+262,7.96,15.5,11,"Drama, Sci-Fi",0.39,0.66
+263,21.12,26.64,19,"Sci-Fi, Documentary",0.93,0.73
+264,18.17,35.5,13,"Thriller, Drama",0.88,0.67
+265,12.67,28.29,11,"Drama, Thriller",0.25,0.5
+266,6.06,16.61,4,"Comedy, Romance",0.38,0.65
+267,3.62,17.54,12,"Thriller, Animation",0.3,0.66
+268,8.75,27.39,8,"Thriller, Comedy",0.23,0.67
+269,51.14,86.49,27,"Animation, Comedy",0.37,0.91
+270,30.51,36.42,27,"Sci-Fi, Romance, Thriller, Documentary",0.44,0.59
+271,53.1,84.73,44,"Sci-Fi, Drama",0.41,0.96
+272,10.91,55.24,12,"Animation, Drama",0.65,0.69
+273,5.35,14.6,12,"Sci-Fi, Drama",0.36,0.52
+274,29.33,47.46,23,"Sci-Fi, Comedy",0.79,0.76
+275,11.64,19.77,11,"Action, Animation",0.4,0.69
+276,58.08,81.75,44,"Thriller, Action",0.2,0.78
+277,3.11,20.11,8,"Documentary, Sci-Fi",0.17,0.57
+278,10.31,43.63,21,"Romance, Documentary",0.65,0.69
+279,15.34,49.39,23,"Comedy, Action, Romance, Documentary",0.49,0.77
+280,5.3,20.53,8,"Sci-Fi, Thriller",0.22,0.49
+281,21.3,59.66,15,"Comedy, Sci-Fi",0.74,0.79
+282,28.27,65.86,37,"Drama, Action",0.32,0.9
+283,26.91,47.57,18,"Comedy, Romance",0.82,0.8
+284,33.04,94.57,42,"Action, Documentary",0.42,0.86
+285,32.99,41.91,11,"Action, Comedy, Romance, Animation",0.3,0.76
+286,28.58,35.47,15,"Sci-Fi, Thriller",0.82,0.8
+287,12.49,23.79,4,"Action, Documentary",0.28,0.69
+288,14.64,27.66,20,"Romance, Animation",0.94,0.61
+289,19.81,37.45,20,"Animation, Action",0.78,0.74
+290,30.96,46.39,12,"Drama, Sci-Fi, Thriller, Documentary",0.33,0.61
+291,17.13,25.16,19,"Comedy, Documentary, Action, Animation",0.38,0.73
+292,18.98,44.42,21,"Comedy, Romance",0.68,0.53
+293,32.27,25.37,23,"Thriller, Romance, Animation, Comedy",0.37,0.53
+294,13.39,34.41,16,"Animation, Drama",0.8,0.52
+295,16.0,52.39,19,"Documentary, Romance",0.73,0.59
+296,8.49,12.71,3,"Animation, Documentary",0.39,0.47
+297,23.8,37.92,30,"Sci-Fi, Romance, Documentary, Comedy",0.54,0.54
+298,16.28,58.76,18,"Documentary, Romance",0.74,0.74
+299,6.91,15.61,15,"Thriller, Romance",0.25,0.39
+300,11.18,21.0,14,"Documentary, Animation",0.27,0.6
+301,31.63,27.07,23,"Romance, Comedy, Drama, Animation",0.45,0.54
+302,25.78,27.59,23,"Animation, Romance",0.82,0.69
+303,52.68,64.77,45,"Comedy, Action",0.33,0.9
+304,10.89,17.1,13,"Animation, Documentary",0.3,0.55
+305,34.31,37.91,10,"Thriller, Documentary, Drama, Animation",0.28,0.57
+306,25.45,45.6,24,"Documentary, Action",0.7,0.85
+307,23.32,53.85,13,"Sci-Fi, Drama, Animation, Thriller",0.5,0.72
+308,9.25,16.97,4,"Sci-Fi, Action",0.26,0.59
+309,15.89,46.32,10,"Drama, Sci-Fi, Comedy, Romance",0.5,0.69
+310,9.62,16.62,9,"Animation, Sci-Fi",0.39,0.43
+311,5.24,23.15,9,"Thriller, Documentary",0.16,0.56
+312,17.78,49.67,14,"Comedy, Romance",0.73,0.75
+313,52.98,74.53,31,"Romance, Sci-Fi",0.28,0.86
+314,20.55,47.37,20,"Sci-Fi, Drama",0.83,0.71
+315,22.35,53.48,17,"Drama, Documentary",0.93,0.71
+316,33.35,51.43,31,"Animation, Romance",0.37,0.87
+317,9.9,18.46,10,"Drama, Romance",0.31,0.59
+318,8.88,12.81,8,"Sci-Fi, Action",0.36,0.57
+319,12.73,53.53,25,"Documentary, Thriller",0.8,0.67
+320,19.77,27.89,8,"Action, Drama",0.89,0.58
+321,9.45,13.36,10,"Documentary, Romance",0.29,0.62
+322,45.04,59.73,37,"Action, Animation",0.41,0.83
+323,20.93,59.64,11,"Thriller, Drama",0.87,0.73
+324,40.74,64.17,22,"Thriller, Comedy",0.31,0.98
+325,32.22,43.31,23,"Thriller, Animation, Comedy, Action",0.3,0.54
+326,25.65,42.91,15,"Romance, Documentary, Drama, Animation",0.35,0.71
+327,29.75,86.26,33,"Drama, Sci-Fi",0.43,0.98
+328,6.0,24.23,6,"Documentary, Comedy",0.34,0.59
+329,27.56,36.26,12,"Comedy, Thriller, Romance, Drama",0.44,0.76
+330,24.09,39.64,28,"Comedy, Sci-Fi, Thriller, Drama",0.25,0.73
+331,52.85,66.87,33,"Sci-Fi, Animation",0.41,0.86
+332,21.76,42.34,28,"Action, Documentary, Animation, Thriller",0.51,0.74
+333,29.35,92.17,34,"Animation, Comedy",0.31,0.98
+334,13.59,16.04,7,"Comedy, Drama",0.17,0.48
+335,3.62,22.51,14,"Comedy, Sci-Fi",0.32,0.43
+336,25.04,71.22,24,"Documentary, Action",0.35,0.87
+337,49.35,89.94,33,"Thriller, Documentary",0.37,0.86
+338,50.58,50.63,30,"Animation, Documentary",0.29,0.82
+339,10.7,23.54,4,"Drama, Thriller",0.28,0.35
+340,29.45,43.84,14,"Documentary, Animation, Comedy, Action",0.53,0.68
+341,29.9,51.77,43,"Sci-Fi, Animation",0.3,0.97
+342,5.97,22.89,6,"Romance, Animation",0.29,0.56
+343,54.68,81.21,29,"Thriller, Sci-Fi",0.25,0.89
+344,15.91,26.91,15,"Documentary, Sci-Fi",0.8,0.54
+345,43.49,98.77,31,"Animation, Drama",0.43,0.78
+346,12.15,29.09,15,"Action, Drama",0.17,0.56
+347,3.48,11.21,15,"Animation, Thriller",0.25,0.45
+348,11.65,43.78,12,"Thriller, Animation",0.73,0.61
+349,9.44,17.81,13,"Comedy, Drama",0.34,0.58
+350,24.6,54.63,9,"Comedy, Thriller",0.72,0.82
+351,35.83,85.79,43,"Drama, Sci-Fi",0.24,0.75
+352,30.73,97.42,36,"Romance, Comedy",0.33,0.94
+353,17.54,48.43,18,"Action, Drama, Thriller, Animation",0.47,0.54
+354,34.2,98.63,40,"Sci-Fi, Action",0.22,0.85
+355,27.19,30.84,13,"Comedy, Documentary",0.73,0.54
+356,26.54,92.46,27,"Drama, Comedy",0.21,0.83
+357,44.35,95.27,43,"Thriller, Documentary",0.36,0.8
+358,20.43,27.34,21,"Action, Comedy, Animation, Romance",0.29,0.7
+359,58.39,48.79,34,"Romance, Drama",0.42,0.93
+360,44.36,45.44,26,"Thriller, Documentary",0.27,0.93
+361,26.83,39.8,16,"Thriller, Comedy, Action, Documentary",0.47,0.66
+362,33.15,64.05,42,"Action, Animation",0.42,0.97
+363,26.98,50.45,11,"Animation, Thriller",0.71,0.84
+364,59.04,52.83,28,"Animation, Sci-Fi",0.22,0.96
+365,24.17,47.44,28,"Animation, Action, Romance, Sci-Fi",0.28,0.54
+366,40.22,98.03,27,"Animation, Sci-Fi",0.27,0.95
+367,21.36,33.16,12,"Comedy, Documentary, Action, Animation",0.53,0.54
+368,19.32,39.23,25,"Documentary, Drama",0.76,0.77
+369,15.3,29.2,13,"Action, Comedy",0.89,0.61
+370,17.97,46.33,21,"Romance, Drama, Comedy, Action",0.37,0.51
+371,27.09,44.46,25,"Drama, Action",0.72,0.66
+372,27.16,87.95,27,"Sci-Fi, Documentary",0.23,0.94
+373,45.38,59.24,22,"Documentary, Animation",0.21,0.76
+374,4.1,26.95,15,"Documentary, Action",0.23,0.36
+375,14.09,18.66,14,"Animation, Comedy",0.25,0.36
+376,19.29,30.61,18,"Thriller, Sci-Fi, Drama, Documentary",0.38,0.54
+377,27.66,41.77,10,"Thriller, Sci-Fi",0.73,0.55
+378,10.57,26.04,15,"Sci-Fi, Thriller",0.15,0.48
+379,16.88,44.8,18,"Sci-Fi, Romance",0.77,0.56
+380,3.35,26.21,7,"Sci-Fi, Animation",0.16,0.7
+381,14.69,12.0,13,"Action, Animation",0.21,0.54
+382,9.91,29.65,9,"Drama, Comedy",0.24,0.64
+383,10.11,26.12,14,"Sci-Fi, Romance",0.24,0.56
+384,9.76,13.76,15,"Romance, Comedy",0.37,0.52
+385,10.76,26.97,15,"Sci-Fi, Romance",0.66,0.67
+386,12.68,16.82,5,"Sci-Fi, Action",0.38,0.65
+387,30.17,83.76,24,"Sci-Fi, Action",0.39,0.94
+388,29.09,44.86,28,"Drama, Comedy, Sci-Fi, Thriller",0.28,0.59
+389,22.98,31.1,25,"Sci-Fi, Comedy",0.86,0.83
+390,7.54,24.68,7,"Animation, Documentary",0.18,0.61
+391,31.37,62.5,45,"Comedy, Thriller",0.44,0.8
+392,6.97,11.56,8,"Comedy, Animation",0.4,0.41
+393,23.93,32.96,17,"Comedy, Sci-Fi, Action, Animation",0.46,0.61
+394,18.76,39.69,13,"Animation, Drama",0.92,0.67
+395,12.03,41.78,15,"Action, Drama",0.7,0.53
+396,36.16,97.34,22,"Drama, Sci-Fi",0.29,0.95
+397,44.15,94.4,22,"Documentary, Sci-Fi",0.28,0.98
+398,40.1,80.95,39,"Comedy, Drama",0.42,0.79
+399,14.69,18.19,11,"Romance, Sci-Fi",0.33,0.61
+400,20.95,27.88,22,"Drama, Action, Documentary, Animation",0.42,0.75
+401,11.75,53.84,23,"Drama, Sci-Fi",0.71,0.51
+402,34.54,39.21,13,"Documentary, Sci-Fi, Drama, Action",0.34,0.62
+403,13.7,55.99,19,"Documentary, Thriller",0.71,0.52
+404,19.52,33.06,11,"Comedy, Action, Sci-Fi, Drama",0.3,0.71
+405,29.41,45.64,25,"Animation, Romance",0.67,0.64
+406,21.45,33.25,17,"Action, Romance",0.67,0.82
+407,4.44,25.14,5,"Thriller, Animation",0.39,0.41
+408,4.51,18.47,13,"Drama, Animation",0.26,0.7
+409,21.39,46.81,12,"Sci-Fi, Animation, Drama, Romance",0.28,0.67
+410,28.34,25.43,24,"Drama, Comedy",0.88,0.54
+411,57.37,75.95,23,"Sci-Fi, Thriller",0.4,0.95
+412,22.66,39.57,29,"Animation, Comedy, Romance, Sci-Fi",0.39,0.55
+413,10.78,56.14,18,"Documentary, Drama",0.86,0.52
+414,15.4,49.52,19,"Comedy, Animation, Documentary, Sci-Fi",0.34,0.75
+415,34.48,38.29,20,"Comedy, Documentary, Thriller, Animation",0.33,0.63
+416,24.82,51.58,19,"Drama, Action",0.9,0.68
+417,29.19,37.1,26,"Thriller, Animation, Comedy, Action",0.51,0.51
+418,3.4,11.01,8,"Documentary, Romance",0.33,0.45
+419,22.71,29.34,8,"Documentary, Comedy",0.72,0.67
+420,21.74,37.24,13,"Comedy, Drama",0.9,0.59
+421,38.53,53.96,38,"Thriller, Sci-Fi",0.39,0.8
+422,11.13,15.38,9,"Action, Thriller",0.28,0.65
+423,10.77,22.02,3,"Romance, Sci-Fi",0.21,0.56
+424,23.48,36.29,21,"Romance, Sci-Fi, Documentary, Animation",0.39,0.57
+425,21.69,25.26,19,"Romance, Drama",0.82,0.71
+426,41.86,63.5,28,"Romance, Sci-Fi",0.36,0.95
+427,18.77,40.52,17,"Animation, Sci-Fi, Drama, Comedy",0.52,0.74
+428,47.94,99.86,28,"Action, Romance",0.43,0.84
+429,7.12,24.27,13,"Sci-Fi, Romance",0.28,0.62
+430,31.91,50.22,27,"Drama, Sci-Fi, Documentary, Romance",0.3,0.53
+431,14.36,27.99,13,"Romance, Thriller",0.17,0.47
+432,22.43,42.57,24,"Comedy, Thriller, Documentary, Romance",0.51,0.64
+433,55.36,65.99,29,"Drama, Comedy",0.3,0.95
+434,7.11,29.74,10,"Drama, Animation",0.19,0.65
+435,42.07,79.71,25,"Documentary, Drama",0.28,0.76
+436,12.13,13.37,15,"Comedy, Documentary",0.19,0.62
+437,22.67,39.12,23,"Thriller, Sci-Fi",0.76,0.51
+438,34.0,51.76,26,"Thriller, Comedy, Sci-Fi, Drama",0.31,0.7
+439,17.58,36.51,28,"Action, Drama, Animation, Thriller",0.34,0.52
+440,23.67,45.6,14,"Sci-Fi, Animation, Comedy, Documentary",0.35,0.77
+441,10.38,32.85,12,"Drama, Action",0.71,0.51
+442,29.22,48.76,22,"Action, Romance, Documentary, Sci-Fi",0.51,0.58
+443,26.69,51.37,34,"Documentary, Sci-Fi",0.3,0.88
+444,5.47,23.71,3,"Romance, Documentary",0.23,0.58
+445,8.03,27.97,11,"Comedy, Animation",0.33,0.39
+446,42.42,78.5,44,"Thriller, Drama",0.27,0.87
+447,15.91,26.38,23,"Documentary, Drama",0.92,0.74
+448,3.03,23.43,4,"Drama, Action",0.36,0.58
+449,50.32,50.57,28,"Romance, Drama",0.36,0.86
+450,11.0,53.46,9,"Sci-Fi, Thriller",0.91,0.63
+451,28.32,86.7,21,"Drama, Documentary",0.2,0.78
+452,32.89,53.65,18,"Sci-Fi, Comedy, Action, Thriller",0.51,0.53
+453,29.25,34.51,20,"Animation, Sci-Fi",0.86,0.67
+454,4.36,23.92,3,"Comedy, Thriller",0.4,0.65
+455,26.05,48.74,13,"Action, Animation",0.83,0.77
+456,8.8,19.76,9,"Sci-Fi, Action",0.26,0.37
+457,14.73,23.4,8,"Comedy, Thriller",0.28,0.59
+458,8.78,23.27,13,"Action, Documentary",0.25,0.64
+459,9.07,19.39,10,"Documentary, Drama",0.37,0.38
+460,6.97,15.56,11,"Animation, Documentary",0.21,0.58
+461,3.95,18.88,12,"Documentary, Drama",0.26,0.65
+462,59.32,85.99,20,"Action, Animation",0.23,0.84
+463,52.71,97.97,40,"Thriller, Sci-Fi",0.28,0.87
+464,29.01,37.72,9,"Sci-Fi, Romance",0.89,0.8
+465,24.33,37.72,22,"Thriller, Action",0.68,0.77
+466,22.1,44.01,19,"Comedy, Action, Documentary, Thriller",0.41,0.61
+467,12.86,24.85,9,"Thriller, Action",0.18,0.56
+468,14.31,53.86,14,"Animation, Action",0.87,0.54
+469,52.03,69.78,41,"Documentary, Action",0.35,0.87
+470,44.36,68.8,38,"Drama, Sci-Fi",0.32,0.87
+471,11.77,12.57,9,"Sci-Fi, Romance",0.31,0.56
+472,18.37,46.31,15,"Romance, Thriller",0.73,0.84
+473,4.66,22.05,14,"Sci-Fi, Documentary",0.28,0.65
+474,5.41,22.48,7,"Drama, Sci-Fi",0.32,0.67
+475,9.05,23.89,8,"Documentary, Romance",0.33,0.62
+476,23.48,56.29,25,"Action, Romance",0.74,0.8
+477,25.88,52.99,41,"Drama, Documentary",0.21,0.81
+478,17.93,26.86,19,"Sci-Fi, Animation, Thriller, Action",0.31,0.66
+479,11.91,21.23,6,"Romance, Sci-Fi",0.28,0.63
+480,57.43,66.32,45,"Action, Documentary",0.44,0.82
+481,19.06,51.07,24,"Sci-Fi, Animation, Romance, Documentary",0.5,0.77
+482,12.31,29.29,7,"Comedy, Documentary",0.26,0.69
+483,11.82,12.39,3,"Drama, Comedy",0.26,0.54
+484,15.11,38.99,14,"Action, Animation, Sci-Fi, Romance",0.26,0.78
+485,24.81,42.18,21,"Thriller, Comedy, Romance, Action",0.27,0.71
+486,7.99,20.74,4,"Sci-Fi, Drama",0.24,0.66
+487,20.87,53.51,29,"Action, Documentary, Sci-Fi, Drama",0.41,0.8
+488,14.81,47.48,15,"Sci-Fi, Thriller",0.94,0.74
+489,38.51,74.71,29,"Sci-Fi, Romance",0.21,0.87
+490,19.74,35.38,14,"Comedy, Documentary",0.75,0.53
+491,46.94,56.59,40,"Animation, Documentary",0.39,0.95
+492,32.2,90.58,43,"Comedy, Sci-Fi",0.39,0.9
+493,3.29,24.34,3,"Romance, Documentary",0.17,0.37
+494,45.12,57.52,28,"Animation, Thriller",0.3,0.85
+495,15.34,45.2,27,"Comedy, Animation, Sci-Fi, Romance",0.25,0.72
+496,49.53,48.99,36,"Romance, Documentary",0.23,0.93
+497,34.85,95.97,32,"Documentary, Comedy",0.3,0.9
+498,4.64,17.82,15,"Drama, Documentary",0.36,0.45
+499,34.15,25.33,27,"Animation, Romance, Documentary, Action",0.29,0.51
+500,19.2,47.24,21,"Drama, Comedy, Animation, Sci-Fi",0.31,0.77
+501,18.89,30.44,28,"Documentary, Sci-Fi, Romance, Action",0.51,0.76
+502,28.43,32.52,16,"Sci-Fi, Drama, Comedy, Documentary",0.47,0.65
+503,34.98,48.84,26,"Romance, Sci-Fi",0.28,0.85
+504,9.79,17.29,8,"Sci-Fi, Comedy",0.39,0.41
+505,11.55,22.82,7,"Sci-Fi, Thriller",0.36,0.4
+506,18.91,52.12,23,"Comedy, Animation",0.82,0.56
+507,32.17,29.2,27,"Comedy, Sci-Fi, Action, Animation",0.31,0.72
+508,53.44,76.84,44,"Romance, Documentary",0.35,0.96
+509,23.08,30.2,20,"Romance, Comedy",0.72,0.77
+510,20.02,28.17,19,"Drama, Animation",0.8,0.73
+511,8.35,13.58,12,"Documentary, Drama",0.31,0.69
+512,32.66,71.82,22,"Thriller, Romance",0.27,0.8
+513,22.76,52.54,11,"Comedy, Sci-Fi, Romance, Drama",0.26,0.69
+514,26.57,42.1,22,"Comedy, Romance, Drama, Thriller",0.45,0.61
+515,9.2,17.06,8,"Action, Romance",0.27,0.52
+516,8.28,14.6,11,"Drama, Comedy",0.31,0.42
+517,27.04,49.51,17,"Comedy, Thriller, Sci-Fi, Animation",0.37,0.6
+518,14.21,30.64,21,"Drama, Comedy",0.66,0.52
+519,56.18,53.08,25,"Animation, Romance",0.26,0.79
+520,55.75,85.04,29,"Documentary, Animation",0.44,0.8
+521,13.41,54.06,12,"Drama, Romance",0.89,0.79
+522,18.35,45.57,24,"Animation, Thriller, Comedy, Action",0.43,0.52
+523,32.08,92.28,36,"Comedy, Documentary",0.37,0.94
+524,28.03,45.99,25,"Documentary, Sci-Fi",0.8,0.54
+525,13.82,20.79,3,"Animation, Romance",0.37,0.62
+526,17.41,26.52,24,"Documentary, Animation",0.78,0.83
+527,17.01,53.16,11,"Thriller, Animation",0.78,0.59
+528,34.91,93.22,33,"Action, Romance",0.26,0.75
+529,43.19,65.63,26,"Sci-Fi, Action",0.37,0.82
+530,8.11,21.71,7,"Sci-Fi, Romance",0.36,0.5
+531,34.84,36.92,16,"Documentary, Comedy, Drama, Romance",0.37,0.74
+532,15.08,35.73,19,"Drama, Animation",0.88,0.64
+533,51.17,69.56,42,"Animation, Documentary",0.44,0.77
+534,31.02,43.42,11,"Action, Animation, Documentary, Comedy",0.3,0.79
+535,28.52,40.24,10,"Action, Sci-Fi",0.73,0.63
+536,28.61,39.02,24,"Action, Animation",0.74,0.84
+537,10.68,18.78,6,"Romance, Comedy",0.36,0.68
+538,52.44,73.08,42,"Action, Drama",0.26,0.79
+539,10.86,29.51,4,"Sci-Fi, Documentary",0.4,0.62
+540,18.11,32.01,8,"Comedy, Romance",0.87,0.52
+541,29.52,41.77,28,"Romance, Comedy, Documentary, Animation",0.35,0.79
+542,28.59,45.12,16,"Comedy, Romance",0.7,0.68
+543,21.8,28.51,26,"Romance, Sci-Fi, Thriller, Animation",0.54,0.76
+544,25.4,51.51,22,"Action, Thriller",0.85,0.81
+545,34.02,66.05,45,"Thriller, Animation",0.45,0.91
+546,23.25,35.59,27,"Thriller, Drama, Action, Documentary",0.25,0.75
+547,16.52,52.94,25,"Romance, Comedy, Sci-Fi, Animation",0.34,0.57
+548,24.74,33.22,15,"Thriller, Animation",0.91,0.57
+549,13.04,17.12,15,"Documentary, Romance",0.18,0.67
+550,51.75,74.78,21,"Sci-Fi, Thriller",0.41,0.84
+551,24.82,54.53,26,"Drama, Action, Romance, Thriller",0.33,0.57
+552,28.79,26.14,19,"Drama, Thriller",0.77,0.74
+553,49.44,70.3,42,"Animation, Romance",0.2,0.91
+554,36.39,78.7,28,"Romance, Thriller",0.25,0.81
+555,22.32,39.96,16,"Sci-Fi, Animation, Thriller, Drama",0.38,0.73
+556,13.6,29.59,15,"Thriller, Romance",0.89,0.75
+557,27.13,31.86,12,"Animation, Thriller",0.79,0.5
+558,14.95,26.99,11,"Documentary, Drama",0.28,0.46
+559,26.24,42.04,22,"Thriller, Animation, Drama, Documentary",0.28,0.55
+560,40.74,63.41,31,"Romance, Drama",0.29,0.88
+561,39.41,64.31,41,"Drama, Animation",0.44,0.8
+562,22.1,45.2,25,"Comedy, Thriller, Romance, Drama",0.48,0.63
+563,22.63,30.07,13,"Animation, Sci-Fi",0.84,0.82
+564,26.98,27.5,13,"Romance, Sci-Fi",0.75,0.61
+565,27.11,36.86,24,"Documentary, Thriller, Comedy, Sci-Fi",0.48,0.78
+566,29.38,57.9,28,"Comedy, Documentary",0.44,0.91
+567,7.76,11.91,10,"Animation, Romance",0.29,0.36
+568,28.64,79.0,22,"Romance, Comedy",0.36,0.95
+569,11.85,18.86,5,"Action, Documentary",0.18,0.64
+570,32.21,34.76,25,"Romance, Documentary, Thriller, Comedy",0.39,0.76
+571,10.09,19.13,14,"Romance, Drama",0.31,0.55
+572,20.79,53.16,22,"Drama, Documentary",0.74,0.64
+573,25.0,89.85,24,"Action, Sci-Fi",0.29,0.86
+574,28.94,41.7,8,"Thriller, Animation",0.88,0.78
+575,44.19,55.37,37,"Animation, Documentary",0.31,0.81
+576,14.41,27.77,15,"Romance, Drama",0.8,0.78
+577,23.26,50.6,15,"Documentary, Romance, Thriller, Drama",0.29,0.53
+578,13.76,25.68,9,"Comedy, Drama",0.94,0.51
+579,17.5,38.15,10,"Documentary, Comedy, Drama, Thriller",0.32,0.55
+580,30.71,39.95,21,"Sci-Fi, Action, Comedy, Animation",0.39,0.74
+581,30.51,27.14,25,"Romance, Animation, Thriller, Action",0.3,0.77
+582,59.11,84.31,32,"Action, Comedy",0.39,0.85
+583,24.71,28.29,14,"Romance, Drama",0.79,0.74
+584,10.55,10.84,11,"Romance, Comedy",0.28,0.44
+585,32.75,50.91,16,"Animation, Drama, Action, Comedy",0.54,0.57
+586,26.69,36.87,17,"Documentary, Sci-Fi, Romance, Comedy",0.25,0.51
+587,30.42,32.46,25,"Action, Documentary, Drama, Comedy",0.28,0.69
+588,29.4,57.8,37,"Documentary, Sci-Fi",0.4,0.92
+589,3.26,17.56,14,"Documentary, Sci-Fi",0.18,0.66
+590,21.18,44.0,23,"Sci-Fi, Drama",0.71,0.57
+591,15.51,54.1,25,"Documentary, Drama",0.7,0.69
+592,25.83,38.62,30,"Action, Romance, Drama, Animation",0.4,0.72
+593,6.85,11.27,11,"Documentary, Animation",0.35,0.42
+594,10.36,16.45,13,"Comedy, Action",0.23,0.38
+595,5.14,10.63,4,"Animation, Sci-Fi",0.27,0.38
+596,20.52,49.55,16,"Comedy, Action",0.66,0.58
+597,10.87,28.57,4,"Sci-Fi, Romance",0.27,0.57
+598,26.44,52.8,9,"Action, Sci-Fi",0.9,0.59
+599,54.21,49.29,26,"Thriller, Romance",0.44,0.77
+600,13.79,43.42,15,"Animation, Sci-Fi",0.82,0.83
+601,51.82,76.71,41,"Comedy, Documentary",0.31,0.9
+602,9.6,20.09,13,"Documentary, Drama",0.19,0.7
+603,26.0,54.91,21,"Sci-Fi, Romance, Comedy, Animation",0.37,0.69
+604,7.5,21.0,14,"Documentary, Thriller",0.21,0.69
+605,50.42,99.06,39,"Romance, Action",0.2,0.78
+606,34.69,31.44,20,"Romance, Documentary, Animation, Sci-Fi",0.26,0.75
+607,4.13,19.21,5,"Thriller, Comedy",0.18,0.48
+608,31.22,27.76,22,"Comedy, Sci-Fi, Drama, Thriller",0.42,0.57
+609,8.86,27.98,14,"Romance, Action",0.29,0.67
+610,11.57,26.96,18,"Animation, Documentary",0.75,0.79
+611,55.44,57.47,40,"Animation, Action",0.41,0.96
+612,25.49,34.58,28,"Thriller, Comedy, Action, Documentary",0.29,0.65
+613,25.06,45.13,10,"Animation, Comedy",0.72,0.6
+614,7.03,19.52,14,"Comedy, Thriller",0.16,0.49
+615,25.48,29.56,12,"Animation, Sci-Fi",0.79,0.57
+616,9.73,29.94,11,"Animation, Drama",0.21,0.38
+617,28.94,67.75,31,"Action, Animation",0.29,0.82
+618,18.39,35.49,24,"Thriller, Comedy, Sci-Fi, Drama",0.44,0.63
+619,12.09,27.06,4,"Drama, Animation",0.33,0.44
+620,15.27,45.81,13,"Sci-Fi, Comedy, Documentary, Romance",0.34,0.64
+621,5.45,20.47,7,"Drama, Sci-Fi",0.29,0.57
+622,38.18,94.83,36,"Romance, Comedy",0.21,0.79
+623,16.06,44.64,10,"Sci-Fi, Animation, Action, Documentary",0.27,0.7
+624,32.35,44.48,17,"Comedy, Drama, Thriller, Romance",0.54,0.65
+625,31.52,72.54,34,"Action, Comedy",0.34,0.91
+626,21.67,36.8,15,"Sci-Fi, Documentary, Drama, Comedy",0.26,0.71
+627,31.24,43.77,22,"Action, Romance, Drama, Comedy",0.52,0.74
+628,7.1,17.86,5,"Thriller, Documentary",0.17,0.48
+629,9.87,18.53,7,"Drama, Comedy",0.38,0.47
+630,9.97,23.68,6,"Drama, Thriller",0.37,0.46
+631,10.87,21.3,5,"Comedy, Documentary",0.23,0.55
+632,31.79,29.37,10,"Animation, Thriller, Drama, Documentary",0.48,0.76
+633,18.04,30.64,14,"Romance, Documentary, Animation, Sci-Fi",0.31,0.73
+634,10.16,14.62,3,"Documentary, Comedy",0.24,0.59
+635,24.24,38.09,20,"Thriller, Comedy",0.8,0.55
+636,39.3,98.28,28,"Thriller, Animation",0.44,0.8
+637,3.79,28.54,10,"Sci-Fi, Animation",0.37,0.52
+638,27.75,39.96,9,"Sci-Fi, Thriller",0.83,0.79
+639,43.22,69.84,21,"Animation, Sci-Fi",0.42,0.81
+640,44.52,73.39,40,"Documentary, Thriller",0.44,0.79
+641,30.47,33.58,15,"Action, Sci-Fi, Romance, Comedy",0.38,0.68
+642,26.6,40.81,24,"Drama, Thriller",0.68,0.77
+643,16.47,25.87,22,"Thriller, Documentary",0.83,0.75
+644,33.75,83.04,42,"Comedy, Action",0.4,0.92
+645,49.72,79.87,22,"Drama, Thriller",0.33,0.84
+646,10.88,30.98,18,"Drama, Comedy",0.82,0.73
+647,5.15,24.24,9,"Documentary, Drama",0.23,0.61
+648,4.41,12.63,6,"Action, Thriller",0.15,0.62
+649,27.11,44.02,8,"Thriller, Romance",0.83,0.67
+650,19.07,40.47,8,"Thriller, Action",0.72,0.69
+651,4.78,23.07,3,"Romance, Drama",0.19,0.36
+652,26.72,67.93,25,"Drama, Thriller",0.24,0.82
+653,33.63,27.79,19,"Comedy, Animation, Thriller, Romance",0.35,0.77
+654,35.25,52.4,42,"Animation, Romance",0.41,0.83
+655,11.35,22.24,4,"Comedy, Thriller",0.29,0.69
+656,23.54,50.43,18,"Sci-Fi, Comedy, Romance, Documentary",0.41,0.8
+657,20.39,47.12,23,"Thriller, Sci-Fi",0.89,0.81
+658,34.59,25.05,10,"Thriller, Animation, Romance, Documentary",0.39,0.74
+659,10.91,37.24,14,"Romance, Drama",0.65,0.57
+660,35.77,72.87,30,"Sci-Fi, Drama",0.39,0.78
+661,24.49,46.56,8,"Sci-Fi, Documentary",0.9,0.57
+662,28.32,52.9,12,"Sci-Fi, Thriller",0.79,0.72
+663,28.56,26.96,24,"Sci-Fi, Romance",0.74,0.75
+664,32.29,82.7,45,"Comedy, Documentary",0.43,0.93
+665,31.81,35.17,22,"Animation, Comedy, Romance, Action",0.44,0.75
+666,29.11,34.43,11,"Thriller, Drama, Documentary, Animation",0.33,0.53
+667,9.3,13.5,8,"Comedy, Thriller",0.35,0.62
+668,52.97,94.77,24,"Romance, Animation",0.25,0.96
+669,17.87,51.15,26,"Action, Thriller, Animation, Romance",0.45,0.54
+670,25.14,96.28,41,"Sci-Fi, Thriller",0.41,0.95
+671,28.61,87.14,43,"Romance, Sci-Fi",0.28,0.88
+672,6.85,13.85,7,"Comedy, Drama",0.28,0.62
+673,4.89,12.29,12,"Sci-Fi, Romance",0.29,0.39
+674,20.42,53.3,19,"Romance, Documentary, Drama, Animation",0.42,0.55
+675,11.01,26.01,9,"Animation, Thriller",0.68,0.52
+676,11.46,27.83,13,"Sci-Fi, Drama",0.36,0.59
+677,31.35,46.39,27,"Documentary, Romance, Comedy, Action",0.27,0.78
+678,11.95,35.86,22,"Drama, Animation",0.79,0.83
+679,33.26,36.76,20,"Documentary, Thriller, Action, Sci-Fi",0.49,0.76
+680,12.26,41.75,13,"Drama, Romance",0.73,0.62
+681,39.2,84.29,23,"Romance, Documentary",0.28,0.9
+682,18.02,39.47,15,"Animation, Action",0.81,0.84
+683,19.16,45.82,23,"Sci-Fi, Romance, Documentary, Comedy",0.49,0.63
+684,10.95,11.56,14,"Documentary, Drama",0.29,0.52
+685,53.77,54.69,32,"Animation, Drama",0.22,0.78
+686,22.9,27.15,14,"Action, Animation",0.9,0.81
+687,10.93,19.06,7,"Thriller, Comedy",0.25,0.55
+688,20.99,48.83,19,"Sci-Fi, Action, Romance, Animation",0.53,0.78
+689,26.95,54.84,9,"Action, Documentary",0.76,0.69
+690,17.19,33.47,10,"Animation, Sci-Fi, Drama, Thriller",0.32,0.71
+691,17.63,44.08,13,"Animation, Documentary",0.79,0.57
+692,31.8,29.63,14,"Action, Comedy, Sci-Fi, Thriller",0.29,0.52
+693,29.5,29.75,12,"Documentary, Animation",0.84,0.65
+694,22.46,40.9,21,"Sci-Fi, Comedy",0.82,0.66
+695,8.1,10.15,10,"Romance, Thriller",0.36,0.43
+696,15.67,26.14,25,"Documentary, Sci-Fi, Action, Comedy",0.46,0.53
+697,24.3,27.35,29,"Comedy, Sci-Fi, Animation, Romance",0.28,0.64
+698,27.26,52.11,27,"Documentary, Romance, Sci-Fi, Drama",0.48,0.64
+699,17.06,59.22,17,"Romance, Sci-Fi",0.74,0.51
+700,16.23,39.19,15,"Romance, Animation, Sci-Fi, Documentary",0.42,0.7
+701,35.04,49.54,36,"Romance, Comedy",0.22,0.93
+702,20.5,32.71,13,"Drama, Sci-Fi, Thriller, Documentary",0.43,0.77
+703,6.14,24.02,10,"Action, Drama",0.2,0.53
+704,58.86,77.75,24,"Animation, Documentary",0.41,0.92
+705,14.76,40.41,13,"Sci-Fi, Action",0.71,0.76
+706,30.11,28.48,15,"Documentary, Sci-Fi, Romance, Comedy",0.39,0.64
+707,23.67,38.65,16,"Action, Drama",0.69,0.8
+708,17.64,36.05,24,"Sci-Fi, Animation",0.85,0.51
+709,22.21,47.82,16,"Comedy, Drama",0.75,0.59
+710,19.22,48.64,15,"Thriller, Romance",0.87,0.71
+711,28.55,54.8,20,"Comedy, Action, Thriller, Animation",0.41,0.7
+712,48.99,64.33,43,"Action, Romance",0.27,0.79
+713,26.99,77.68,26,"Comedy, Action",0.44,0.9
+714,7.51,25.28,13,"Comedy, Sci-Fi",0.29,0.69
+715,6.04,19.34,4,"Romance, Animation",0.31,0.67
+716,23.84,48.37,18,"Romance, Animation",0.73,0.77
+717,38.4,63.3,21,"Drama, Thriller",0.26,0.94
+718,42.21,96.07,39,"Comedy, Documentary",0.3,0.9
+719,14.37,47.52,22,"Comedy, Action",0.86,0.54
+720,30.54,25.56,25,"Action, Sci-Fi, Thriller, Drama",0.29,0.69
+721,11.4,28.09,12,"Documentary, Thriller",0.15,0.6
+722,18.08,50.47,10,"Documentary, Action",0.81,0.5
+723,21.67,34.08,11,"Comedy, Drama, Romance, Animation",0.44,0.79
+724,54.44,86.82,29,"Action, Thriller",0.36,0.79
+725,6.59,17.8,4,"Comedy, Sci-Fi",0.31,0.48
+726,24.71,29.9,14,"Thriller, Documentary",0.66,0.85
+727,11.26,43.92,17,"Documentary, Action",0.8,0.84
+728,36.87,63.57,43,"Documentary, Sci-Fi",0.21,0.78
+729,11.89,14.66,4,"Action, Thriller",0.16,0.4
+730,33.49,80.68,20,"Romance, Animation",0.24,0.76
+731,40.97,54.39,38,"Comedy, Thriller",0.22,0.94
+732,3.76,14.05,8,"Animation, Drama",0.35,0.69
+733,59.15,76.68,24,"Thriller, Animation",0.28,0.97
+734,45.76,63.45,23,"Drama, Sci-Fi",0.27,0.92
+735,26.07,38.16,28,"Animation, Documentary, Comedy, Action",0.26,0.53
+736,11.61,25.25,10,"Romance, Thriller",0.86,0.71
+737,23.85,32.22,16,"Drama, Romance",0.81,0.64
+738,45.87,84.45,39,"Romance, Drama",0.44,0.89
+739,10.09,33.25,11,"Sci-Fi, Animation",0.95,0.84
+740,8.57,22.53,6,"Drama, Sci-Fi",0.22,0.42
+741,19.95,30.59,9,"Thriller, Documentary",0.67,0.63
+742,21.69,49.15,24,"Drama, Comedy, Action, Thriller",0.26,0.72
+743,27.48,57.94,34,"Thriller, Sci-Fi",0.35,0.82
+744,19.6,28.3,17,"Thriller, Documentary, Comedy, Action",0.28,0.72
+745,21.7,26.9,21,"Documentary, Comedy",0.69,0.82
+746,17.47,41.02,14,"Thriller, Drama",0.84,0.84
+747,3.39,21.37,7,"Documentary, Thriller",0.18,0.65
+748,12.12,14.4,7,"Drama, Romance",0.3,0.63
+749,4.04,27.14,10,"Documentary, Animation",0.37,0.43
+750,15.58,50.55,15,"Thriller, Romance",0.72,0.65
+751,13.97,27.97,9,"Documentary, Sci-Fi",0.4,0.36
+752,39.9,66.69,45,"Documentary, Thriller",0.4,0.94
+753,4.0,25.06,14,"Drama, Documentary",0.33,0.68
+754,19.78,54.97,10,"Documentary, Animation, Romance, Sci-Fi",0.39,0.59
+755,59.17,70.51,24,"Sci-Fi, Documentary",0.42,0.84
+756,24.08,25.05,10,"Action, Drama",0.77,0.74
+757,25.06,49.43,25,"Comedy, Romance",0.82,0.57
+758,29.72,26.64,21,"Sci-Fi, Thriller, Romance, Action",0.52,0.53
+759,22.33,44.45,12,"Drama, Documentary, Comedy, Romance",0.42,0.73
+760,47.72,85.56,44,"Thriller, Animation",0.35,0.97
+761,6.85,27.96,11,"Comedy, Drama",0.32,0.45
+762,24.05,40.04,13,"Romance, Thriller, Documentary, Drama",0.39,0.66
+763,31.59,93.62,22,"Romance, Action",0.22,0.96
+764,30.77,51.16,24,"Action, Drama",0.32,0.95
+765,29.39,43.95,12,"Action, Drama",0.79,0.65
+766,3.76,27.44,6,"Sci-Fi, Thriller",0.36,0.53
+767,28.12,48.6,25,"Documentary, Thriller, Drama, Romance",0.43,0.71
+768,13.78,16.13,15,"Romance, Animation",0.22,0.52
+769,30.19,60.64,25,"Romance, Comedy",0.35,0.79
+770,13.07,23.86,13,"Comedy, Action",0.35,0.41
+771,26.49,38.23,21,"Action, Sci-Fi, Drama, Animation",0.31,0.67
+772,7.47,20.8,5,"Action, Thriller",0.28,0.39
+773,25.37,58.17,18,"Sci-Fi, Documentary",0.7,0.84
+774,24.48,33.69,28,"Documentary, Drama, Sci-Fi, Action",0.45,0.74
+775,28.0,29.88,25,"Thriller, Documentary",0.69,0.51
+776,16.85,26.65,30,"Romance, Comedy, Action, Sci-Fi",0.31,0.66
+777,23.54,58.52,24,"Action, Sci-Fi",0.77,0.67
+778,22.95,46.48,23,"Romance, Drama, Animation, Sci-Fi",0.36,0.61
+779,27.49,28.07,22,"Documentary, Drama",0.87,0.65
+780,12.67,29.41,9,"Comedy, Documentary",0.33,0.49
+781,6.64,29.77,11,"Animation, Action",0.4,0.37
+782,39.33,95.29,33,"Drama, Comedy",0.24,0.86
+783,12.99,15.79,10,"Romance, Thriller",0.16,0.64
+784,14.49,52.69,12,"Documentary, Action",0.73,0.83
+785,23.34,39.76,30,"Romance, Thriller, Action, Documentary",0.32,0.54
+786,26.62,41.97,18,"Comedy, Drama, Romance, Sci-Fi",0.44,0.64
+787,54.58,53.96,21,"Drama, Documentary",0.24,0.86
+788,3.63,17.22,13,"Romance, Drama",0.38,0.47
+789,42.99,87.15,25,"Drama, Romance",0.39,0.89
+790,32.45,49.8,19,"Sci-Fi, Action, Romance, Documentary",0.33,0.71
+791,31.47,25.39,26,"Animation, Drama, Comedy, Action",0.33,0.73
+792,4.85,14.42,6,"Comedy, Thriller",0.35,0.55
+793,28.32,29.08,12,"Romance, Sci-Fi",0.93,0.67
+794,17.78,38.26,29,"Drama, Sci-Fi, Documentary, Action",0.41,0.79
+795,32.78,92.12,24,"Thriller, Comedy",0.37,0.82
+796,39.87,86.97,23,"Animation, Action",0.22,0.93
+797,4.29,25.86,11,"Romance, Action",0.3,0.51
+798,35.56,45.56,23,"Thriller, Romance",0.4,0.96
+799,5.22,17.03,4,"Romance, Documentary",0.19,0.61
+800,22.04,50.65,29,"Comedy, Animation, Romance, Action",0.32,0.67
+801,11.59,29.29,5,"Comedy, Documentary",0.38,0.54
+802,17.33,45.63,22,"Sci-Fi, Thriller",0.85,0.54
+803,14.29,32.96,11,"Documentary, Action",0.88,0.61
+804,8.95,17.23,7,"Sci-Fi, Thriller",0.29,0.36
+805,38.47,70.13,43,"Documentary, Comedy",0.28,0.97
+806,15.81,54.94,14,"Documentary, Sci-Fi",0.91,0.81
+807,18.59,54.96,25,"Comedy, Action, Documentary, Thriller",0.45,0.62
+808,23.9,59.21,13,"Sci-Fi, Comedy",0.67,0.84
+809,12.46,54.33,23,"Romance, Animation",0.73,0.75
+810,17.12,48.33,20,"Drama, Animation",0.95,0.68
+811,12.16,33.77,23,"Action, Documentary",0.72,0.83
+812,54.06,72.4,20,"Sci-Fi, Comedy",0.44,0.84
+813,27.44,27.89,12,"Documentary, Animation, Thriller, Comedy",0.45,0.66
+814,28.24,39.71,18,"Action, Animation, Documentary, Thriller",0.41,0.74
+815,38.43,62.3,32,"Drama, Romance",0.31,0.76
+816,32.69,29.92,23,"Documentary, Animation, Action, Romance",0.29,0.71
+817,23.2,48.99,23,"Action, Thriller",0.79,0.8
+818,24.89,54.13,29,"Romance, Drama, Action, Sci-Fi",0.45,0.73
+819,29.49,65.15,45,"Sci-Fi, Thriller",0.39,0.76
+820,39.99,99.56,33,"Thriller, Comedy",0.29,0.9
+821,26.85,52.31,12,"Drama, Action, Romance, Documentary",0.51,0.53
+822,41.13,92.49,38,"Action, Sci-Fi",0.33,0.85
+823,21.76,59.5,20,"Comedy, Animation",0.82,0.61
+824,12.0,48.63,18,"Sci-Fi, Comedy",0.8,0.78
+825,22.27,38.08,25,"Comedy, Animation, Romance, Documentary",0.44,0.79
+826,20.3,33.92,28,"Comedy, Sci-Fi, Romance, Action",0.37,0.57
+827,20.47,41.99,26,"Comedy, Sci-Fi, Drama, Romance",0.39,0.56
+828,23.66,41.2,16,"Documentary, Sci-Fi, Romance, Comedy",0.37,0.58
+829,46.97,73.39,25,"Documentary, Drama",0.34,0.8
+830,28.69,50.43,9,"Drama, Comedy",0.81,0.63
+831,11.96,25.31,9,"Comedy, Sci-Fi",0.25,0.65
+832,13.15,15.34,7,"Thriller, Documentary",0.31,0.44
+833,4.36,13.84,6,"Documentary, Romance",0.35,0.46
+834,18.44,56.7,14,"Romance, Animation",0.7,0.55
+835,28.17,30.28,11,"Action, Documentary, Animation, Drama",0.54,0.65
+836,32.34,52.02,23,"Comedy, Thriller, Sci-Fi, Documentary",0.52,0.7
+837,4.34,24.69,4,"Romance, Thriller",0.28,0.64
+838,33.33,51.73,45,"Animation, Documentary",0.28,0.94
+839,14.23,14.36,4,"Documentary, Thriller",0.19,0.69
+840,32.26,26.68,27,"Sci-Fi, Romance, Thriller, Documentary",0.36,0.78
+841,14.56,27.59,5,"Romance, Action",0.24,0.6
+842,54.45,81.42,21,"Thriller, Drama",0.37,0.93
+843,16.19,58.55,19,"Thriller, Animation",0.92,0.74
+844,17.77,56.84,20,"Romance, Action",0.93,0.82
+845,6.57,27.19,5,"Animation, Documentary",0.38,0.57
+846,34.59,49.41,44,"Animation, Documentary",0.44,0.86
+847,29.35,51.3,13,"Comedy, Drama, Thriller, Romance",0.5,0.71
+848,24.07,25.82,11,"Documentary, Animation, Sci-Fi, Comedy",0.44,0.56
+849,39.02,79.56,30,"Thriller, Romance",0.34,0.78
+850,13.16,23.72,15,"Drama, Documentary",0.38,0.51
+851,11.25,26.54,15,"Sci-Fi, Comedy",0.22,0.38
+852,27.53,58.07,15,"Thriller, Action",0.66,0.51
+853,13.97,49.54,13,"Romance, Comedy",0.66,0.72
+854,58.53,54.36,38,"Animation, Documentary",0.23,0.92
+855,26.55,42.3,15,"Romance, Drama",0.86,0.57
+856,17.64,40.1,14,"Romance, Sci-Fi",0.83,0.85
+857,8.02,18.17,5,"Thriller, Romance",0.16,0.69
+858,28.15,37.94,22,"Sci-Fi, Documentary",0.68,0.66
+859,23.74,49.97,21,"Comedy, Romance",0.87,0.59
+860,26.82,96.21,35,"Action, Documentary",0.43,0.98
+861,25.09,36.43,22,"Action, Romance, Comedy, Drama",0.45,0.54
+862,9.04,28.61,10,"Animation, Comedy",0.18,0.46
+863,17.34,26.32,14,"Romance, Sci-Fi, Drama, Thriller",0.4,0.79
+864,33.06,32.9,18,"Drama, Documentary, Sci-Fi, Thriller",0.41,0.63
+865,9.67,28.46,13,"Drama, Action",0.35,0.37
+866,5.2,19.4,5,"Documentary, Action",0.33,0.5
+867,17.13,49.82,23,"Drama, Action",0.79,0.54
+868,16.87,51.05,15,"Romance, Documentary, Sci-Fi, Animation",0.5,0.72
+869,10.0,29.43,11,"Comedy, Documentary",0.34,0.41
+870,23.54,56.06,8,"Comedy, Thriller",0.74,0.84
+871,26.81,53.54,20,"Documentary, Thriller, Sci-Fi, Drama",0.3,0.52
+872,36.53,47.41,39,"Drama, Comedy",0.44,0.82
+873,53.05,60.56,45,"Animation, Action",0.21,0.77
+874,15.1,33.4,20,"Drama, Thriller",0.68,0.8
+875,15.7,51.34,12,"Animation, Sci-Fi",0.69,0.67
+876,33.07,43.11,21,"Thriller, Documentary, Animation, Sci-Fi",0.45,0.75
+877,15.37,46.01,10,"Drama, Thriller",0.88,0.78
+878,11.86,42.97,22,"Drama, Thriller",0.85,0.73
+879,35.17,69.05,45,"Drama, Sci-Fi",0.32,0.78
+880,31.83,40.69,19,"Action, Romance, Documentary, Animation",0.42,0.67
+881,18.26,41.26,16,"Action, Documentary",0.76,0.7
+882,13.59,31.38,20,"Romance, Drama",0.66,0.65
+883,25.15,40.75,16,"Drama, Comedy",0.75,0.82
+884,3.94,29.64,7,"Action, Documentary",0.37,0.39
+885,12.33,31.01,23,"Documentary, Drama",0.79,0.64
+886,28.81,53.89,22,"Drama, Action, Comedy, Animation",0.49,0.53
+887,49.36,55.35,20,"Thriller, Documentary",0.25,0.9
+888,4.03,25.39,5,"Drama, Comedy",0.27,0.36
+889,29.28,41.5,22,"Animation, Action",0.83,0.57
+890,15.16,43.91,23,"Romance, Action, Thriller, Sci-Fi",0.54,0.75
+891,20.27,50.36,23,"Action, Thriller",0.72,0.52
+892,26.07,33.04,30,"Documentary, Romance, Sci-Fi, Drama",0.38,0.64
+893,23.95,25.73,17,"Documentary, Comedy",0.87,0.66
+894,10.05,23.7,12,"Documentary, Comedy",0.36,0.6
+895,29.46,36.71,23,"Sci-Fi, Animation, Thriller, Comedy",0.5,0.7
+896,6.39,24.99,13,"Drama, Romance",0.27,0.41
+897,12.02,39.56,23,"Action, Documentary",0.74,0.57
+898,32.62,35.71,15,"Action, Animation, Documentary, Drama",0.3,0.76
+899,12.28,32.93,25,"Sci-Fi, Animation",0.72,0.59
+900,30.39,48.1,27,"Comedy, Sci-Fi, Action, Thriller",0.33,0.55
+901,29.25,51.45,11,"Comedy, Animation",0.88,0.71
+902,42.76,54.19,23,"Drama, Sci-Fi",0.42,0.96
+903,29.16,47.86,25,"Sci-Fi, Drama, Comedy, Action",0.47,0.53
+904,8.27,18.31,15,"Documentary, Drama",0.15,0.64
+905,25.1,27.56,21,"Thriller, Comedy, Romance, Documentary",0.46,0.62
+906,4.66,18.58,9,"Sci-Fi, Action",0.37,0.68
+907,12.91,25.35,24,"Sci-Fi, Thriller",0.93,0.53
+908,8.21,17.87,3,"Action, Sci-Fi",0.32,0.57
+909,23.39,51.57,27,"Sci-Fi, Drama, Action, Animation",0.51,0.72
+910,11.4,18.92,6,"Documentary, Sci-Fi",0.37,0.57
+911,32.75,48.45,22,"Comedy, Action, Romance, Drama",0.48,0.76
+912,24.5,50.9,12,"Thriller, Action",0.81,0.69
+913,25.43,47.71,15,"Romance, Comedy, Drama, Thriller",0.26,0.77
+914,50.62,91.29,28,"Action, Animation",0.36,0.83
+915,40.71,76.48,20,"Thriller, Drama",0.31,0.98
+916,20.69,48.54,28,"Thriller, Action, Drama, Romance",0.45,0.71
+917,12.87,17.23,4,"Animation, Action",0.19,0.5
+918,27.18,93.87,35,"Animation, Romance",0.25,0.77
+919,27.44,45.45,21,"Documentary, Sci-Fi",0.95,0.74
+920,26.48,30.05,12,"Comedy, Sci-Fi",0.8,0.66
+921,8.47,10.65,5,"Comedy, Romance",0.39,0.48
+922,12.21,37.94,17,"Sci-Fi, Drama",0.66,0.55
+923,21.07,39.58,14,"Action, Drama, Animation, Comedy",0.29,0.68
+924,12.83,19.78,4,"Action, Thriller",0.29,0.37
+925,21.46,44.8,18,"Drama, Animation",0.88,0.67
+926,9.06,19.22,10,"Sci-Fi, Action",0.32,0.4
+927,17.74,56.51,18,"Documentary, Sci-Fi",0.81,0.84
+928,27.92,50.98,10,"Romance, Documentary, Sci-Fi, Action",0.42,0.74
+929,31.73,79.03,38,"Thriller, Animation",0.39,0.97
+930,20.05,25.65,25,"Thriller, Comedy",0.7,0.51
+931,11.69,43.67,18,"Action, Drama",0.77,0.52
+932,13.61,25.84,24,"Comedy, Action",0.75,0.59
+933,6.42,13.65,15,"Animation, Sci-Fi",0.17,0.46
+934,3.71,29.22,5,"Animation, Action",0.16,0.37
+935,17.85,51.79,18,"Comedy, Action, Documentary, Sci-Fi",0.36,0.75
+936,8.92,25.05,9,"Sci-Fi, Thriller",0.39,0.44
+937,11.31,26.01,15,"Comedy, Documentary",0.92,0.51
+938,6.66,18.13,4,"Drama, Documentary",0.36,0.53
+939,12.38,20.75,9,"Action, Documentary",0.39,0.54
+940,29.22,46.73,13,"Documentary, Drama",0.65,0.83
+941,31.79,36.4,21,"Romance, Action, Comedy, Documentary",0.5,0.56
+942,35.52,66.74,23,"Romance, Thriller",0.41,0.92
+943,10.33,29.15,8,"Romance, Animation",0.37,0.68
+944,15.46,48.18,18,"Sci-Fi, Action",0.75,0.66
+945,10.76,10.04,10,"Drama, Thriller",0.15,0.35
+946,25.25,43.83,10,"Documentary, Sci-Fi",0.81,0.81
+947,37.35,89.7,39,"Action, Documentary",0.29,0.79
+948,17.41,31.75,8,"Romance, Sci-Fi",0.72,0.51
+949,18.83,49.49,30,"Thriller, Documentary, Drama, Action",0.34,0.72
+950,24.86,46.12,29,"Animation, Action, Drama, Romance",0.31,0.56
+951,13.41,31.78,13,"Comedy, Documentary",0.67,0.54
+952,33.67,50.66,26,"Action, Sci-Fi, Animation, Romance",0.47,0.58
+953,28.61,51.49,10,"Action, Animation, Drama, Thriller",0.53,0.69
+954,15.48,48.81,22,"Action, Sci-Fi",0.8,0.68
+955,3.56,28.37,11,"Thriller, Drama",0.26,0.35
+956,55.8,89.42,43,"Comedy, Documentary",0.26,0.91
+957,4.97,16.22,13,"Animation, Documentary",0.31,0.36
+958,45.74,79.45,30,"Documentary, Comedy",0.41,0.81
+959,31.65,49.65,26,"Documentary, Animation, Action, Thriller",0.49,0.78
+960,27.99,48.34,21,"Comedy, Animation",0.29,0.95
+961,3.74,26.05,3,"Comedy, Action",0.23,0.57
+962,44.57,61.22,32,"Animation, Comedy",0.3,0.89
+963,40.87,70.53,33,"Sci-Fi, Documentary",0.42,0.89
+964,40.89,63.05,26,"Comedy, Romance",0.23,0.75
+965,13.85,12.52,11,"Documentary, Comedy",0.21,0.5
+966,4.65,10.88,5,"Sci-Fi, Drama",0.23,0.5
+967,4.77,16.17,8,"Drama, Action",0.22,0.69
+968,9.09,26.7,3,"Thriller, Sci-Fi",0.26,0.42
+969,12.42,16.83,13,"Documentary, Romance",0.27,0.59
+970,32.04,41.98,20,"Drama, Action, Thriller, Animation",0.43,0.63
+971,14.39,25.13,15,"Thriller, Comedy",0.86,0.66
+972,24.69,58.34,18,"Animation, Comedy",0.89,0.63
+973,37.7,49.06,20,"Documentary, Comedy",0.34,0.78
+974,15.88,25.89,16,"Romance, Sci-Fi, Comedy, Drama",0.34,0.57
+975,5.14,10.43,7,"Drama, Thriller",0.38,0.36
+976,36.84,56.56,34,"Drama, Romance",0.26,0.94
+977,27.57,27.29,12,"Thriller, Comedy",0.91,0.55
+978,23.89,36.13,21,"Action, Animation",0.94,0.59
+979,13.25,15.88,5,"Romance, Animation",0.23,0.37
+980,13.22,29.37,10,"Documentary, Animation",0.2,0.38
+981,30.86,66.35,40,"Documentary, Comedy",0.39,0.84
+982,29.25,40.76,25,"Romance, Documentary, Thriller, Animation",0.46,0.65
+983,32.25,94.22,34,"Romance, Thriller",0.42,0.84
+984,21.43,57.74,19,"Comedy, Drama",0.73,0.53
+985,20.38,33.06,9,"Animation, Thriller",0.79,0.72
+986,18.65,37.86,23,"Drama, Thriller",0.75,0.63
+987,6.19,11.52,4,"Comedy, Animation",0.22,0.53
+988,33.53,27.95,12,"Sci-Fi, Comedy, Documentary, Drama",0.36,0.66
+989,21.05,49.47,18,"Drama, Animation, Sci-Fi, Romance",0.31,0.68
+990,15.17,33.98,21,"Animation, Documentary, Romance, Action",0.48,0.62
+991,23.08,59.62,12,"Thriller, Documentary",0.91,0.58
+992,9.19,25.72,15,"Sci-Fi, Animation",0.27,0.64
+993,35.96,55.33,44,"Documentary, Thriller",0.44,0.85
+994,38.11,76.76,24,"Documentary, Animation",0.28,0.92
+995,21.8,37.57,22,"Romance, Drama, Documentary, Action",0.48,0.71
+996,57.28,53.45,30,"Animation, Thriller",0.34,0.93
+997,14.38,11.27,9,"Documentary, Sci-Fi",0.2,0.39
+998,16.86,28.13,27,"Documentary, Action, Comedy, Sci-Fi",0.3,0.75
+999,56.9,66.22,26,"Comedy, Thriller",0.26,0.9
+1000,37.9,45.61,30,"Drama, Action",0.41,0.84
+1001,9.44,19.57,4,"Thriller, Comedy",0.25,0.67
+1002,6.72,26.36,13,"Romance, Documentary",0.27,0.56
+1003,9.03,23.7,7,"Documentary, Action",0.2,0.7
+1004,22.1,33.64,18,"Documentary, Thriller",0.92,0.81
+1005,50.81,60.84,34,"Romance, Thriller",0.29,0.94
+1006,7.98,13.59,12,"Drama, Sci-Fi",0.33,0.51
+1007,38.77,97.01,27,"Romance, Sci-Fi",0.42,0.79
+1008,49.43,84.73,26,"Comedy, Drama",0.43,0.84
+1009,51.44,72.74,44,"Romance, Comedy",0.28,0.85
+1010,41.18,49.03,42,"Sci-Fi, Documentary",0.37,0.86
+1011,27.12,38.88,8,"Drama, Documentary",0.73,0.75
+1012,19.7,27.39,25,"Documentary, Comedy",0.85,0.75
+1013,26.41,54.45,13,"Drama, Documentary",0.9,0.71
+1014,43.71,66.5,22,"Romance, Comedy",0.37,0.75
+1015,17.16,32.58,9,"Documentary, Sci-Fi",0.92,0.69
+1016,54.28,89.63,40,"Comedy, Thriller",0.37,0.9
+1017,23.88,42.95,11,"Thriller, Drama, Comedy, Sci-Fi",0.48,0.73
+1018,25.56,46.54,20,"Comedy, Documentary",0.28,0.79
+1019,52.89,90.67,25,"Comedy, Animation",0.38,0.76
+1020,21.45,43.8,29,"Animation, Action, Comedy, Sci-Fi",0.31,0.66
+1021,37.48,54.55,32,"Thriller, Documentary",0.36,0.75
+1022,3.79,26.3,13,"Thriller, Documentary",0.31,0.37
+1023,30.35,39.99,13,"Drama, Documentary, Action, Romance",0.46,0.74
+1024,34.63,45.89,14,"Sci-Fi, Animation, Documentary, Thriller",0.35,0.69
+1025,36.73,78.47,38,"Thriller, Romance",0.31,0.87
+1026,33.14,78.9,23,"Thriller, Romance",0.28,0.92
+1027,27.1,65.6,29,"Action, Comedy",0.25,0.84
+1028,24.79,36.5,16,"Action, Romance",0.75,0.78
+1029,22.96,35.1,8,"Sci-Fi, Comedy",0.72,0.76
+1030,9.47,28.13,13,"Thriller, Romance",0.4,0.63
+1031,20.43,31.42,8,"Thriller, Action",0.67,0.67
+1032,14.26,12.51,5,"Thriller, Comedy",0.3,0.64
+1033,39.92,70.69,25,"Drama, Romance",0.38,0.81
+1034,6.64,21.53,13,"Documentary, Action",0.2,0.65
+1035,22.96,30.03,24,"Animation, Documentary, Comedy, Thriller",0.38,0.68
+1036,51.67,68.51,22,"Drama, Romance",0.39,0.96
+1037,6.09,19.27,10,"Documentary, Action",0.22,0.55
+1038,17.73,39.08,14,"Sci-Fi, Thriller, Animation, Documentary",0.52,0.5
+1039,29.41,38.06,23,"Comedy, Thriller",0.74,0.85
+1040,59.74,51.85,38,"Romance, Animation",0.24,0.93
+1041,25.19,39.66,21,"Animation, Sci-Fi, Comedy, Documentary",0.46,0.7
+1042,10.69,53.46,8,"Romance, Documentary",0.86,0.73
+1043,28.89,30.16,15,"Drama, Action",0.83,0.83
+1044,51.98,80.44,32,"Comedy, Romance",0.3,0.88
+1045,13.51,13.32,9,"Animation, Romance",0.21,0.46
+1046,29.68,47.57,12,"Sci-Fi, Animation, Comedy, Drama",0.28,0.67
+1047,14.16,17.96,7,"Documentary, Action",0.15,0.41
+1048,27.44,83.3,36,"Animation, Comedy",0.3,0.82
+1049,7.5,24.08,6,"Comedy, Thriller",0.27,0.53
+1050,5.23,11.18,5,"Animation, Thriller",0.35,0.42
+1051,55.39,54.14,29,"Comedy, Drama",0.22,0.78
+1052,45.5,71.28,41,"Romance, Animation",0.39,0.75
+1053,48.29,88.41,21,"Action, Thriller",0.22,0.87
+1054,33.64,39.2,20,"Sci-Fi, Drama, Comedy, Animation",0.43,0.6
+1055,17.57,27.0,19,"Action, Thriller",0.91,0.78
+1056,24.5,56.08,12,"Romance, Sci-Fi",0.66,0.54
+1057,7.42,22.37,13,"Thriller, Action",0.37,0.53
+1058,15.33,35.81,11,"Documentary, Comedy, Romance, Thriller",0.54,0.72
+1059,24.78,52.79,19,"Documentary, Sci-Fi",0.78,0.83
+1060,50.7,61.16,26,"Action, Comedy",0.38,0.95
+1061,25.94,35.55,25,"Documentary, Action",0.95,0.66
+1062,23.25,33.43,14,"Comedy, Action",0.7,0.83
+1063,29.87,26.02,18,"Thriller, Sci-Fi",0.92,0.77
+1064,28.32,53.55,13,"Documentary, Action, Sci-Fi, Drama",0.45,0.78
+1065,14.18,25.33,12,"Animation, Sci-Fi",0.17,0.47
+1066,26.17,32.82,11,"Sci-Fi, Documentary",0.74,0.54
+1067,11.94,12.32,8,"Animation, Romance",0.18,0.46
+1068,35.88,77.45,26,"Sci-Fi, Animation",0.41,0.98
+1069,30.95,53.02,14,"Thriller, Action, Documentary, Animation",0.41,0.68
+1070,16.32,53.57,17,"Documentary, Comedy",0.9,0.67
+1071,17.92,44.96,11,"Comedy, Drama, Sci-Fi, Romance",0.43,0.59
+1072,22.62,32.55,17,"Sci-Fi, Comedy",0.86,0.63
+1073,13.18,28.69,6,"Drama, Animation",0.33,0.37
+1074,24.55,35.47,13,"Sci-Fi, Thriller",0.95,0.69
+1075,29.81,51.52,20,"Romance, Sci-Fi",0.67,0.75
+1076,11.41,20.96,4,"Action, Animation",0.18,0.61
+1077,24.15,29.91,14,"Drama, Comedy, Animation, Sci-Fi",0.38,0.64
+1078,37.68,92.09,23,"Drama, Thriller",0.37,0.98
+1079,23.59,30.89,9,"Drama, Action",0.68,0.84
+1080,59.31,80.76,38,"Animation, Comedy",0.31,0.78
+1081,29.16,66.82,29,"Animation, Documentary",0.37,0.97
+1082,52.22,92.57,40,"Documentary, Drama",0.3,0.9
+1083,29.2,49.55,35,"Thriller, Action",0.36,0.96
+1084,15.47,51.09,13,"Animation, Drama",0.77,0.85
+1085,4.19,11.27,15,"Action, Thriller",0.28,0.49
+1086,11.28,54.3,25,"Comedy, Animation",0.86,0.78
+1087,14.59,27.95,5,"Action, Romance",0.37,0.59
+1088,26.01,29.31,12,"Comedy, Romance",0.82,0.73
+1089,32.03,26.05,13,"Drama, Thriller, Sci-Fi, Action",0.4,0.61
+1090,6.61,28.92,11,"Documentary, Comedy",0.38,0.45
+1091,23.9,43.29,19,"Comedy, Sci-Fi",0.83,0.68
+1092,33.3,55.34,29,"Drama, Romance",0.41,0.8
+1093,10.1,15.55,14,"Romance, Drama",0.31,0.38
+1094,23.0,30.72,22,"Animation, Sci-Fi",0.67,0.59
+1095,9.43,11.41,14,"Thriller, Sci-Fi",0.22,0.57
+1096,26.27,44.43,26,"Drama, Documentary, Thriller, Sci-Fi",0.43,0.63
+1097,58.74,58.61,28,"Animation, Action",0.23,0.78
+1098,27.8,35.88,20,"Thriller, Drama, Action, Sci-Fi",0.48,0.54
+1099,29.59,32.78,11,"Romance, Documentary",0.88,0.54
+1100,11.91,37.21,17,"Action, Comedy",0.82,0.71
+1101,33.93,36.69,21,"Animation, Thriller, Romance, Comedy",0.49,0.7
+1102,15.19,40.41,14,"Romance, Action, Sci-Fi, Drama",0.45,0.54
+1103,11.14,18.36,10,"Documentary, Romance",0.2,0.7
+1104,20.52,37.83,17,"Romance, Thriller, Drama, Action",0.34,0.76
+1105,27.68,58.2,22,"Romance, Documentary",0.24,0.76
+1106,26.17,25.37,21,"Drama, Thriller",0.85,0.83
+1107,20.3,59.93,25,"Thriller, Animation",0.86,0.64
+1108,50.0,83.64,43,"Action, Romance",0.29,0.98
+1109,29.29,48.61,24,"Sci-Fi, Animation",0.92,0.56
+1110,9.16,29.05,9,"Comedy, Drama",0.27,0.41
+1111,12.98,27.02,4,"Romance, Comedy",0.22,0.52
+1112,50.83,76.29,26,"Action, Thriller",0.43,0.96
+1113,11.15,25.21,22,"Action, Drama",0.75,0.62
+1114,7.82,10.18,9,"Drama, Thriller",0.27,0.38
+1115,56.96,45.38,44,"Animation, Drama",0.36,0.8
+1116,22.29,51.77,27,"Documentary, Sci-Fi, Thriller, Comedy",0.49,0.53
+1117,7.24,18.68,8,"Comedy, Documentary",0.37,0.6
+1118,15.81,36.84,20,"Thriller, Documentary, Sci-Fi, Drama",0.52,0.55
+1119,39.74,75.26,45,"Animation, Romance",0.37,0.78
+1120,12.63,58.52,8,"Action, Animation",0.69,0.62
+1121,3.62,26.6,9,"Animation, Thriller",0.39,0.61
+1122,20.64,27.48,23,"Drama, Comedy, Documentary, Action",0.32,0.55
+1123,34.89,32.42,23,"Comedy, Sci-Fi, Animation, Romance",0.31,0.71
+1124,5.26,27.1,13,"Drama, Thriller",0.31,0.43
+1125,34.59,55.57,24,"Comedy, Animation",0.31,0.89
+1126,38.31,73.87,42,"Sci-Fi, Thriller",0.36,0.8
+1127,11.23,39.95,9,"Romance, Drama",0.74,0.59
+1128,14.94,56.33,13,"Sci-Fi, Comedy",0.66,0.52
+1129,24.44,52.25,13,"Documentary, Drama, Animation, Sci-Fi",0.38,0.58
+1130,28.39,45.75,37,"Sci-Fi, Documentary",0.39,0.78
+1131,29.86,42.67,29,"Thriller, Romance, Documentary, Action",0.36,0.7
+1132,29.57,85.84,23,"Thriller, Comedy",0.21,0.97
+1133,28.51,27.62,25,"Documentary, Animation",0.84,0.61
+1134,9.4,13.07,5,"Romance, Animation",0.2,0.54
+1135,32.9,38.45,13,"Animation, Romance, Documentary, Action",0.52,0.52
+1136,10.19,23.93,5,"Action, Animation",0.22,0.68
+1137,11.89,17.95,13,"Comedy, Documentary",0.28,0.53
+1138,25.01,38.45,20,"Drama, Action",0.77,0.6
+1139,9.86,21.84,3,"Documentary, Romance",0.37,0.63
+1140,21.07,31.61,18,"Action, Romance, Comedy, Drama",0.42,0.55
+1141,47.39,96.81,28,"Action, Sci-Fi",0.43,0.81
+1142,14.87,14.2,4,"Sci-Fi, Drama",0.15,0.47
+1143,58.12,93.62,28,"Romance, Drama",0.38,0.84
+1144,46.91,45.57,31,"Drama, Documentary",0.25,0.97
+1145,43.81,98.83,44,"Animation, Sci-Fi",0.43,0.88
+1146,32.4,44.03,27,"Sci-Fi, Drama, Comedy, Romance",0.31,0.63
+1147,13.11,33.11,21,"Comedy, Thriller",0.76,0.82
+1148,8.51,26.31,5,"Drama, Sci-Fi",0.2,0.52
+1149,15.42,29.89,15,"Thriller, Action, Comedy, Animation",0.5,0.71
+1150,14.91,56.82,20,"Action, Romance",0.68,0.68
+1151,38.23,46.14,20,"Action, Comedy",0.39,0.9
+1152,12.24,15.35,13,"Action, Animation",0.3,0.63
+1153,43.98,90.0,42,"Documentary, Animation",0.22,0.78
+1154,6.69,19.58,6,"Comedy, Action",0.16,0.59
+1155,28.6,61.32,36,"Action, Comedy",0.42,0.85
+1156,32.93,66.2,31,"Animation, Sci-Fi",0.36,0.8
+1157,42.21,99.49,27,"Sci-Fi, Action",0.23,0.97
+1158,17.37,52.7,12,"Drama, Thriller, Romance, Documentary",0.52,0.68
+1159,11.15,13.0,13,"Romance, Drama",0.32,0.57
+1160,34.49,72.46,31,"Comedy, Animation",0.43,0.94
+1161,55.16,98.79,44,"Animation, Thriller",0.36,0.82
+1162,26.29,28.96,21,"Comedy, Drama",0.94,0.6
+1163,5.18,17.7,8,"Animation, Romance",0.27,0.52
+1164,17.76,53.32,17,"Documentary, Romance, Animation, Comedy",0.36,0.66
+1165,11.67,50.02,24,"Thriller, Sci-Fi",0.82,0.74
+1166,33.23,45.16,20,"Drama, Action",0.29,0.86
+1167,56.9,64.85,44,"Drama, Animation",0.4,0.82
+1168,14.85,53.97,9,"Drama, Thriller",0.87,0.54
+1169,49.36,68.36,21,"Comedy, Thriller",0.38,0.9
+1170,3.36,17.3,4,"Animation, Comedy",0.21,0.35
+1171,8.64,12.8,11,"Animation, Sci-Fi",0.32,0.45
+1172,23.88,44.35,10,"Action, Romance, Comedy, Animation",0.34,0.55
+1173,3.13,26.65,13,"Romance, Documentary",0.39,0.51
+1174,29.19,37.71,15,"Animation, Comedy, Sci-Fi, Documentary",0.33,0.53
+1175,22.38,32.66,13,"Comedy, Animation",0.9,0.84
+1176,19.55,47.84,20,"Sci-Fi, Documentary",0.9,0.56
+1177,13.89,28.79,10,"Sci-Fi, Action",0.76,0.77
+1178,6.39,20.83,4,"Romance, Comedy",0.2,0.35
+1179,10.66,10.65,7,"Action, Romance",0.17,0.55
+1180,10.91,36.01,17,"Romance, Thriller",0.65,0.62
+1181,6.77,17.81,8,"Comedy, Drama",0.39,0.6
+1182,27.93,42.63,24,"Animation, Thriller",0.89,0.55
+1183,35.15,53.33,34,"Thriller, Comedy",0.22,0.89
+1184,12.23,13.22,11,"Sci-Fi, Thriller",0.28,0.61
+1185,7.07,17.21,9,"Animation, Comedy",0.16,0.6
+1186,14.96,22.14,5,"Comedy, Animation",0.29,0.7
+1187,29.99,92.88,37,"Comedy, Thriller",0.42,0.93
+1188,40.92,54.33,29,"Sci-Fi, Drama",0.24,0.81
+1189,27.49,84.09,34,"Romance, Animation",0.26,0.86
+1190,23.01,29.92,11,"Sci-Fi, Animation",0.94,0.67
+1191,23.02,50.71,14,"Sci-Fi, Drama, Action, Thriller",0.38,0.65
+1192,15.26,55.64,9,"Thriller, Sci-Fi",0.84,0.73
+1193,30.41,50.79,32,"Comedy, Documentary",0.24,0.84
+1194,27.48,48.42,19,"Documentary, Action",0.79,0.72
+1195,31.31,50.96,32,"Sci-Fi, Action",0.39,0.8
+1196,21.85,43.13,16,"Romance, Thriller, Action, Documentary",0.46,0.64
+1197,14.38,12.91,6,"Animation, Action",0.23,0.36
+1198,30.79,54.36,16,"Animation, Drama, Documentary, Comedy",0.27,0.76
+1199,29.96,60.06,22,"Animation, Romance",0.27,0.91
+1200,11.04,15.19,3,"Sci-Fi, Animation",0.17,0.67

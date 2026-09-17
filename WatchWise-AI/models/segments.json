@@ -1,0 +1,18 @@
+{
+    "0": {
+        "user_count": 906,
+        "avg_watch_time_hours": 18.0,
+        "avg_session_mins": 34.33,
+        "avg_session_count": 15.12,
+        "avg_completion_rate": 0.62,
+        "avg_weekend_ratio": 0.5
+    },
+    "1": {
+        "user_count": 294,
+        "avg_watch_time_hours": 41.51,
+        "avg_session_mins": 70.89,
+        "avg_session_count": 32.33,
+        "avg_completion_rate": 0.86,
+        "avg_weekend_ratio": 0.33
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "dataset_users": 1200,
+    "number_of_segments": 2,
+    "silhouette_score": 0.1891,
+    "segment_distribution": {
+        "0": 906,
+        "1": 294
+    }
+}
